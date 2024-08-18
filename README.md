@@ -62,17 +62,6 @@ The Community Center Management System is a C++ application designed to manage t
    - Create and cancel events.
    - Make payments and view the facility budget.
 
-## Quality of Design
-
-- **Design Principles**:
-  - **Encapsulation**: Each class encapsulates its data and provides public methods for interaction.
-  - **Modularity**: The system is divided into modules with specific responsibilities.
-  - **Reusability**: Code is organized to promote reuse of components.
-  - **Maintainability**: Clear separation of concerns and use of inheritance enhance maintainability.
-
-- **UML Diagrams and CRC Cards**: Provided in the documentation, illustrating the relationships and interactions between different components of the system.
-
-
 ## File Organization
 
 - **src/**: Contains all the source code files for different classes and functionalities.
@@ -99,7 +88,16 @@ The Community Center Management System is a C++ application designed to manage t
 
 - **Makefile**: Build script to compile the project.
 
+
 ## Design
+
+### Quality of Design
+
+- **Design Principles**:
+  - **Encapsulation**: Each class encapsulates its data and provides public methods for interaction.
+  - **Modularity**: The system is divided into modules with specific responsibilities.
+  - **Reusability**: Code is organized to promote reuse of components.
+  - **Maintainability**: Clear separation of concerns and use of inheritance enhance maintainability.
 
 ### UML Diagrams
 
