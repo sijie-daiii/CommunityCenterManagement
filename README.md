@@ -95,6 +95,9 @@ The Community Center Management System is a C++ application designed to manage t
 - **Class Diagrams**: Show relationships between different classes such as `User`, `Event`, `Reservation`, and `FacilityManager`.
 - **Sequence Diagrams**: Illustrate the interactions between objects for key functionalities like making a reservation, creating an event, and processing a payment.
 
+![1](https://github.com/user-attachments/assets/4f886ab0-b880-4e8e-b166-dfefe4ea0b6d)
+
+
 ### CRC Cards
 
 - **User Class**:
