@@ -38,8 +38,8 @@ The Community Center Management System is a C++ application designed to manage t
 
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/your-repo/community-center-management.git
-   cd community-center-management
+   git clone https://github.com/sijie-daiii/CommunityCenterManagement
+   cd CommunityCenterManagement
    ```
 
 2. Compile the program using the provided Makefile:
