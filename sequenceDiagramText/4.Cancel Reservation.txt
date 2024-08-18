@@ -1,0 +1,8 @@
+User -> System: selectReservation()
+User -> System: requestCancellation()
+System -> System: validateCancellation()
+alt validCancellation
+    System -> User: cancellationSuccessful()
+else invalidCancellation
+    System -> User: cancellationFailed()
+

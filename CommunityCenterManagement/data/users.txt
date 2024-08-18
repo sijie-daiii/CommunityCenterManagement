@@ -1,0 +1,17 @@
+alice_brown password102 Resident
+bob_martin password103 NonResident
+carol_davis password104 NonResident
+city_user citypassword City
+dave_wilson password105 NonResident
+emily_clark password101 Resident
+eve_moore password106 NonResident
+frank_white password107 Organization
+grace_black password108 Organization
+hank_green password109 City
+jane_smith password456 Resident
+john_doe password123 Resident
+mark_jones password789 Resident
+new_user new_password Resident
+nonresident_user nonresidentpassword NonResident
+resident_user residentpassword Resident
+test_user test_password Resident

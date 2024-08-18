@@ -1,0 +1,17 @@
+cancel_event john_doe 2024-07-10T10:00 2024-07-10T12:00 Meeting true 10 20 0 0
+city_event john_doe 2024-07-06T10:00 2024-07-06T12:00 Meeting false 50 20 0 0
+city_priority_event john_doe 2024-07-07T10:00 2024-07-07T12:00 Meeting true 50 20 0 0
+dance_night emily_clark 2024-07-04T18:00 2024-07-04T20:00 Dance true 40 5 0 0
+limited_event john_doe 2024-07-09T10:00 2024-07-09T12:00 Meeting false 2 20 0 0
+non_resident_event dave_wilson 2024-07-06T10:00 2024-07-06T12:00 Meeting true 50 20 0 0
+public_event john_doe 2024-07-08T10:00 2024-07-08T12:00 Meeting false 10 20 0 0
+public_event_test john_doe 2024-07-04T10:00 2024-07-04T12:00 Meeting false 50 10 0 1
+restricted_event city_user 2024-07-03T14:00 2024-07-03T16:00 Dance false 40 20 1 0
+restricted_event_1 city_user 2024-09-03T14:00 2024-09-03T15:00 Dance false 40 20 1 0
+restricted_event_4 city_user 2024-09-04T14:00 2024-09-04T14:30 Wedding false 40 20 1 0
+tech_conference jane_smith 2024-07-02T14:00 2024-07-02T16:00 Lecture true 40 15 0 0
+test_event john_doe 2024-07-05T10:00 2024-07-05T12:00 Meeting true 50 20 0 0
+test_event_1 john_doe 2024-07-05T10:00 2024-07-05T12:00 Meeting false 50 20 0 0
+week_event_1 john_doe 2024-07-05T14:00 2024-07-05T15:00 Lecture true 50 15 0 1
+week_event_2 john_doe 2024-07-06T14:00 2024-07-06T15:00 Lecture true 50 15 0 1
+week_event_3 john_doe 2024-07-07T14:00 2024-07-07T15:00 Lecture true 50 115 0 1

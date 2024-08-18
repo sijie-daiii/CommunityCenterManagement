@@ -1,0 +1,7 @@
+User -> System: selectEvent()
+User -> System: enterReservationDetails()
+System -> System: checkEventAvailability()
+alt eventAvailable
+    System -> User: reservationSuccessful()
+else eventUnavailable
+    System -> User: reservationFailed()

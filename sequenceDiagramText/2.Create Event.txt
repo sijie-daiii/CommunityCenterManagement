@@ -1,0 +1,6 @@
+FacilityManager -> System: enterEventDetails()
+System -> System: validateEventDetails()
+alt validDetails
+    System -> FacilityManager: eventCreationSuccessful()
+else invalidDetails
+    System -> FacilityManager: eventCreationFailed()

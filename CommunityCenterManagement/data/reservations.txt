@@ -1,0 +1,5 @@
+1 john_doe test_event Pending Unpaid 40 2024-07-05T11:00
+2 emily_clark test_event_1 Pending Unpaid 40 2024-07-05T11:00
+3 john_doe tech_conference Pending Unpaid 40 2024-07-02T14:30
+4 nonresident_user restricted_event Pending Unpaid 50 2024-07-03T14:30
+5 nonresident_user restricted_event_4 Pending Unpaid 0 2024-09-04T14:00

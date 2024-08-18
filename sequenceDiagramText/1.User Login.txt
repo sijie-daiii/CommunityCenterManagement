@@ -1,0 +1,7 @@
+User -> System: enterUsername()
+User -> System: enterPassword()
+System -> System: validateCredentials()
+alt validCredentials
+    System -> User: loginSuccessful()
+else invalidCredentials
+    System -> User: loginFailed()

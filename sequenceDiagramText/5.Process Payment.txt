@@ -1,0 +1,4 @@
+User -> System: selectReservation()
+User -> System: enterPaymentDetails()
+System -> FacilityManager: updateBudget()
+System -> User: paymentSuccessful()
